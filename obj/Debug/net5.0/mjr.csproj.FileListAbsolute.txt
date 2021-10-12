@@ -1,0 +1,16 @@
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\mjr.exe
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\mjr.deps.json
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\mjr.runtimeconfig.json
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\mjr.runtimeconfig.dev.json
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\mjr.dll
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\ref\mjr.dll
+C:\Users\trist\OneDrive\Desktop\Mjr\bin\Debug\net5.0\mjr.pdb
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.csprojAssemblyReference.cache
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.AssemblyInfoInputs.cache
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.AssemblyInfo.cs
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.dll
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\ref\mjr.dll
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.pdb
+C:\Users\trist\OneDrive\Desktop\Mjr\obj\Debug\net5.0\mjr.genruntimeconfig.cache
